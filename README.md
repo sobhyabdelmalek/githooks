@@ -1,4 +1,4 @@
-
+# Test after commenting the hook again
 # Test 1
 # githooks
 
